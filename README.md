@@ -4,6 +4,11 @@ Example Game of Object Oriented Programming in Python - Package that choose a nu
 ## Installation
 
 1. The unique requirement that you need to have is python 3 running in you device. 
+2. This package is available via pip 
+    ```
+    pip install GuessNumberLetter
+    ```
+    https://pypi.org/project/GuessNumberLetter/
 
 ## Usage
 The main objective of this project is create an example of Object Oriented Programming in python and the basic way to create a package in python.
