@@ -14,7 +14,7 @@ class GuessLetter(GeneralGuess):
         if position == self.number:
             print("You have the right letter")
         elif position < self.number:
-            print("Your letter is below")quit
+            print("Your letter is below")
         elif position > self.number:
             print("Your letter is high")
 
