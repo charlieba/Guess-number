@@ -4,7 +4,7 @@ from random import randint
 
 class GuessNumber(GeneralGuess):
     def __init__(self):
-        GeneralGuess.__init__(self, is_letter=False)
+        GeneralGuess.__init__(self)
 
     def guess(self, n):
         if n == self.number:
